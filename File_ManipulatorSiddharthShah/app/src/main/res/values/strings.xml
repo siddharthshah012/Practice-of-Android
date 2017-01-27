@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">File_manipulator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="read_me">Read Text</string>
+    <string name="your_name_is">Your Name is:</string>
+    <string name="write_text">Write Text</string>
+    <string name="append_text">Append Text</string>
+
+</resources>
